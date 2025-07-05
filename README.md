@@ -1,31 +1,32 @@
-# |˶˙ᵕ˙ )ﾉ’’ Hello, welcome to my Github! My name is Laila ₊˚⊹
-> This repository aims to gather my studies, experiments and practical projects in the most diverse areas that I have been exploring currently. My projects are organized within the main block called _Projects/_.
+# ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! ദ്ദി・ᴗ・)✧
+ᴍʏ ɴᴀᴍᴇ ɪs ʟᴀɪʟᴀ ₊˚⊹
+> ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ᴀɪᴍs ᴛᴏ ɢᴀᴛʜᴇʀ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs ɪɴ ᴛʜᴇ ᴍᴏsᴛ ᴅɪᴠᴇʀsᴇ ᴀʀᴇᴀs ᴛʜᴀᴛ ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴇxᴘʟᴏʀɪɴɢ ᴄᴜʀʀᴇɴᴛʟʏ. ᴍʏ ᴘʀᴏᴊᴇᴄᴛs ᴀʀᴇ ᴏʀɢᴀɴɪᴢᴇᴅ ᴡɪᴛʜɪɴ ᴛʜᴇ ᴍᴀɪɴ ʙʟᴏᴄᴋ ᴄᴀʟʟᴇᴅ _Projects/_.
 
 ---
 
-## 📁 Subfolders in Projects/
-- **Animations:** Animations and visual effects.
-- **Codes in Java:** Projects and exercises in Java (OOP and logic).
-- **University projects:** Academic projects in several languages.
-- **C_GameX:** Simple game prototypes in C.
-- **Codes in R:** Scripts in R for statistics and data visualization.
-- **Database:** Practices with databases and SQL.
-- **Scripting_and_Automation:** Scripts for automation in Bash and Python.
-- **C-like_Linguages:** Projects in C++, C# and Assembly.
-- **CodeWeb:** Front-end projects with HTML, CSS and JavaScript.
-- **JavX:** Larger projects in Java, including games.
+## 📁 sᴜʙғᴏʟᴅᴇʀs ɪɴ ᴘʀᴏᴊᴇᴄᴛs/
+- **ᴀɴɪᴍᴀᴛɪᴏɴs:** ᴀɴɪᴍᴀᴛɪᴏɴs ᴀɴᴅ ᴠɪsᴜᴀʟ ᴇғғᴇᴄᴛs.
+- **ᴄᴏᴅᴇs ɪɴ ᴊᴀᴠᴀ:** ᴘʀᴏᴊᴇᴄᴛs ᴀɴᴅ ᴇxᴇʀᴄɪsᴇs ɪɴ ᴊᴀᴠᴀ (ᴏᴏᴘ ᴀɴᴅ ʟᴏɢɪᴄ).
+- **ᴜɴɪᴠᴇʀsɪᴛʏ ᴘʀᴏᴊᴇᴄᴛs:** ᴀᴄᴀᴅᴇᴍɪᴄ ᴘʀᴏᴊᴇᴄᴛs ɪɴ sᴇᴠᴇʀᴀʟ ʟᴀɴɢᴜᴀɢᴇs.
+- **ᴄ_ɢᴀᴍᴇx:** sɪᴍᴘʟᴇ ɢᴀᴍᴇ ᴘʀᴏᴛᴏᴛʏᴘᴇs ɪɴ ᴄ.
+- **ᴄᴏᴅᴇs ɪɴ ʀ:** sᴄʀɪᴘᴛs ɪɴ ʀ ғᴏʀ sᴛᴀᴛɪsᴛɪᴄs ᴀɴᴅ ᴅᴀᴛᴀ ᴠɪsᴜᴀʟɪᴢᴀᴛɪᴏɴ.
+- **ᴅᴀᴛᴀʙᴀsᴇ:** ᴘʀᴀᴄᴛɪᴄᴇs ᴡɪᴛʜ ᴅᴀᴛᴀʙᴀsᴇs ᴀɴᴅ sǫʟ.
+- **sᴄʀɪᴘᴛɪɴɢ_ᴀɴᴅ_ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ:** sᴄʀɪᴘᴛs ғᴏʀ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ɪɴ ʙᴀsʜ ᴀɴᴅ ᴘʏᴛʜᴏɴ.
+- **ᴄ-ʟɪᴋᴇ_ʟɪɴɢᴜᴀɢᴇs:** ᴘʀᴏᴊᴇᴄᴛs ɪɴ ᴄ++, ᴄ# ᴀɴᴅ ᴀssᴇᴍʙʟʏ.
+- **ᴄᴏᴅᴇᴡᴇʙ:** ғʀᴏɴᴛ-ᴇɴᴅ ᴘʀᴏᴊᴇᴄᴛs ᴡɪᴛʜ ʜᴛᴍʟ, ᴄss ᴀɴᴅ ᴊᴀᴠᴀsᴄʀɪᴘᴛ.
+- **ᴊᴀᴠx:** ʟᴀʀɢᴇʀ ᴘʀᴏᴊᴇᴄᴛs ɪɴ ᴊᴀᴠᴀ, ɪɴᴄʟᴜᴅɪɴɢ ɢᴀᴍᴇs.
 
 ---
 
-## 🖥️ Skills and Technologies
-I am learning and practicing the following languages ​​and tools:
-- **Languages:** Java, C, Python, R, JavaScript, SQL, Bash
-- **Tools:** Git, Linux, VSCode, PowerShell
-- **Areas of interest:** Automation, web development, programming logic, games and data analysis and arts.
+## 🖥️ sᴋɪʟʟs ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs
+ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄɪɴɢ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ ʟᴀɴɢᴜᴀɢᴇs ​​ᴀɴᴅ ᴛᴏᴏʟs:
+- **ʟᴀɴɢᴜᴀɢᴇs:** ᴊᴀᴠᴀ, ᴄ, ᴘʏᴛʜᴏɴ, ʀ, ᴊᴀᴠᴀsᴄʀɪᴘᴛ, sǫʟ, ʙᴀsʜ
+- **ᴛᴏᴏʟs:** ɢɪᴛ, ʟɪɴᴜx, ᴠsᴄᴏᴅᴇ, ᴘᴏᴡᴇʀsʜᴇʟʟ
+- **ᴀʀᴇᴀs ᴏғ ɪɴᴛᴇʀᴇsᴛ:** ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ, ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴏɢɪᴄ, ɢᴀᴍᴇs ᴀɴᴅ ᴅᴀᴛᴀ ᴀɴᴀʟʏsɪs ᴀɴᴅ ᴀʀᴛs.
 
 ---
 
-## 💌 Contact
-**E-mail:** lailamota.238@gmail.com
-**Instagram:** cherriila
-**Linkedin:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+## 💌 ᴄᴏɴᴛᴀᴄᴛ
+**ᴇ-ᴍᴀɪʟ:** ʟᴀɪʟᴀᴍᴏᴛᴀ.238@ɢᴍᴀɪʟ.ᴄᴏᴍ
+**ɪɴsᴛᴀɢʀᴀᴍ:** ᴄʜᴇʀʀɪɪʟᴀ
+**ʟɪɴᴋᴇᴅɪɴ:** [ʟᴀɪʟᴀ ᴍᴏᴛᴀ](ʜᴛᴛᴘs://ᴡᴡᴡ.ʟɪɴᴋᴇᴅɪɴ.ᴄᴏᴍ/ɪɴ/ʟᴀɪʟᴀ-ᴍᴏᴛᴀ-674564314/)
