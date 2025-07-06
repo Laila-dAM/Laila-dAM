@@ -5,7 +5,7 @@
 
 ---
 
-## 🌸 ᴀʙᴏᴜᴛ ᴍᴇ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="22px" />
+## ᴀʙᴏᴜᴛ ᴍᴇ ⋆⭒˚.⋆ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="22px" />
 
 <p align="left">
   <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="180px" align="right" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 🖥️ sᴋɪʟʟs & ᴛᴏᴏʟs ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
+## 🖥️ sᴋɪʟʟs & ᴛᴏᴏʟs ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ ⋆⭒˚.⋆
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 ɢɪᴛʜᴜʙ sᴛᴀᴛs
+## 📈 ɢɪᴛʜᴜʙ sᴛᴀᴛs ⋆⭒˚.⋆
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
@@ -43,16 +43,14 @@
 
 ---
 
-## 🔥 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sᴛʀᴇᴀᴋ
+## 💌 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ ⋆⭒˚.⋆
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Laila-dAM&theme=tokyonight&hide_border=true" />
-</p>
+- **Email:** lailamota.238@gmail.com  
+- **Instagram:** [@cherriila](https://instagram.com/cherriila)  
+- **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
 
 ---
 
-## 💌 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
-
-- ✉️ **Email:** lailamota.238@gmail.com  
-- 📷 **Instagram:** [@cherriila](https://instagram.com/cherriila)  
-- 💼 **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+<h2 align="center">
+  <b> ૮ ˙Ⱉ˙ ა rawr! </b>
+</h2>
