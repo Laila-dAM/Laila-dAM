@@ -1,26 +1,25 @@
-# ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! ദ്ദി・ᴗ・)✧  
-ᴍʏ ɴᴀᴍᴇ ɪs ʟᴀɪʟᴀ ₊˚⊹  
-> ᴛʜɪs ʀᴇᴘᴏsɪᴛᴏʀʏ ᴀɪᴍs ᴛᴏ ɢᴀᴛʜᴇʀ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs ɪɴ ᴛʜᴇ ᴍᴏsᴛ ᴅɪᴠᴇʀsᴇ ᴀʀᴇᴀs ᴛʜᴀᴛ ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴇxᴘʟᴏʀɪɴɢ ᴄᴜʀʀᴇɴᴛʟʏ.  
-ᴍʏ ᴘʀᴏᴊᴇᴄᴛs ᴀʀᴇ ᴏʀɢᴀɴɪᴢᴇᴅ ᴡɪᴛʜɪɴ ᴛʜᴇ ᴍᴀɪɴ ʙʟᴏᴄᴋ ᴄᴀʟʟᴇᴅ _Projects/_.
+<h1 align="center"><b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! <img src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif" width="40px"></b></h1>
+
+<p align="center">
+  <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="120px" alt="logo"><br><br>
+</p>
 
 ---
 
-## 📁 sᴜʙғᴏʟᴅᴇʀs ɪɴ ᴘʀᴏᴊᴇᴄᴛs/
-- **ᴀɴɪᴍᴀᴛɪᴏɴs:** ᴀɴɪᴍᴀᴛɪᴏɴs ᴀɴᴅ ᴠɪsᴜᴀʟ ᴇғғᴇᴄᴛs  
-- **ᴄᴏᴅᴇs ɪɴ ᴊᴀᴠᴀ:** ᴘʀᴏᴊᴇᴄᴛs ᴀɴᴅ ᴇxᴇʀᴄɪsᴇs ɪɴ ᴊᴀᴠᴀ (ᴏᴏᴘ ᴀɴᴅ ʟᴏɢɪᴄ)  
-- **ᴜɴɪᴠᴇʀsɪᴛʏ ᴘʀᴏᴊᴇᴄᴛs:** ᴀᴄᴀᴅᴇᴍɪᴄ ᴘʀᴏᴊᴇᴄᴛs ɪɴ sᴇᴠᴇʀᴀʟ ʟᴀɴɢᴜᴀɢᴇs  
-- **ᴄ_ɢᴀᴍᴇx:** sɪᴍᴘʟᴇ ɢᴀᴍᴇ ᴘʀᴏᴛᴏᴛʏᴘᴇs ɪɴ ᴄ  
-- **ᴄᴏᴅᴇs ɪɴ ʀ:** sᴄʀɪᴘᴛs ɪɴ ʀ ғᴏʀ sᴛᴀᴛɪsᴛɪᴄs ᴀɴᴅ ᴅᴀᴛᴀ ᴠɪsᴜᴀʟɪᴢᴀᴛɪᴏɴ  
-- **ᴅᴀᴛᴀʙᴀsᴇ:** ᴘʀᴀᴄᴛɪᴄᴇs ᴡɪᴛʜ ᴅᴀᴛᴀʙᴀsᴇs ᴀɴᴅ sǫʟ  
-- **sᴄʀɪᴘᴛɪɴɢ_ᴀɴᴅ_ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ:** sᴄʀɪᴘᴛs ғᴏʀ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ɪɴ ʙᴀsʜ ᴀɴᴅ ᴘʏᴛʜᴏɴ  
-- **ᴄ-ʟɪᴋᴇ_ʟɪɴɢᴜᴀɢᴇs:** ᴘʀᴏᴊᴇᴄᴛs ɪɴ ᴄ++, ᴄ# ᴀɴᴅ ᴀssᴇᴍʙʟʏ  
-- **ᴄᴏᴅᴇᴡᴇʙ:** ғʀᴏɴᴛ-ᴇɴᴅ ᴘʀᴏᴊᴇᴄᴛs ᴡɪᴛʜ ʜᴛᴍʟ, ᴄss ᴀɴᴅ ᴊᴀᴠᴀsᴄʀɪᴘᴛ  
-- **ᴊᴀᴠx:** ʟᴀʀɢᴇʀ ᴘʀᴏᴊᴇᴄᴛs ɪɴ ᴊᴀᴠᴀ, ɪɴᴄʟᴜᴅɪɴɢ ɢᴀᴍᴇs  
+<img align="right" src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="220px" />
+
+## 🌸 ᴀʙᴏᴜᴛ ᴍᴇ
+
+ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs **ʟᴀɪʟᴀ**, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
+**ɢᴀᴍᴇs**, **ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs**, ᴀɴᴅ ᴀʀᴛ 🎮✨  
+ɪ'ᴍ sᴛɪʟʟ ᴇxᴘʟᴏʀɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ ɪɴ ᴀ ɴᴀᴛᴜʀᴀʟ, sᴇʟғ-ᴘᴀᴄᴇᴅ ᴡᴀʏ.  
+> _ᴛʜɪs sᴘᴀᴄᴇ ɪs ᴀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs, ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs._
+
+📂 ᴀʟʟ ᴍʏ ᴡᴏʀᴋ ɪs ᴏʀɢᴀɴɪᴢᴇᴅ ɪɴ ᴛʜᴇ `_Projects/_` ғᴏʟᴅᴇʀ.
 
 ---
 
-## 🖥️ sᴋɪʟʟs ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs
-ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄɪɴɢ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ ʟᴀɴɢᴜᴀɢᴇs ​​ᴀɴᴅ ᴛᴏᴏʟs:
+## 🖥️ sᴋɪʟʟs & ᴛᴏᴏʟs ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
@@ -34,16 +33,16 @@
 
 ---
 
-## 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs
+## 📈 ɢɪᴛʜᴜʙ sᴛᴀᴛs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 ---
 
-## 🔥 sᴛʀᴇᴀᴋ
+## 🔥 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sᴛʀᴇᴀᴋ
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Laila-dAM&theme=tokyonight&hide_border=true" />
@@ -51,7 +50,10 @@
 
 ---
 
-## 💌 ᴄᴏɴᴛᴀᴄᴛ
-- **ᴇ-ᴍᴀɪʟ:** lailamota.238@gmail.com  
-- **ɪɴsᴛᴀɢʀᴀᴍ:** [@cherriila](https://instagram.com/cherriila)  
-- **ʟɪɴᴋᴇᴅɪɴ:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+## 💌 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
+
+- ✉️ **Email:** lailamota.238@gmail.com  
+- 📷 **Instagram:** [@cherriila](https://instagram.com/cherriila)  
+- 💼 **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+
+---
