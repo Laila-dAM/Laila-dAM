@@ -1,14 +1,15 @@
-<h1 align="center"><b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! <img src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif" width="40px"></b></h1>
+<h1 align="center">
+  <b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ!</b> 
+  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif" width="55px">
+</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="120px" alt="logo"><br><br>
+  <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="280px" alt="logo">
 </p>
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="220px" />
-
-## 🌸 ᴀʙᴏᴜᴛ ᴍᴇ
+## 🌸 ᴀʙᴏᴜᴛ ᴍᴇ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="35px" style="vertical-align: middle;" />
 
 ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs **ʟᴀɪʟᴀ**, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
 **ɢᴀᴍᴇs**, **ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs**, ᴀɴᴅ ᴀʀᴛ 🎮✨  
@@ -52,8 +53,8 @@
 
 ## 💌 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
 
-- ✉️ **Email:** lailamota.238@gmail.com  
-- 📷 **Instagram:** [@cherriila](https://instagram.com/cherriila)  
-- 💼 **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+- **Email:** lailamota.238@gmail.com  
+- **Instagram:** [@cherriila](https://instagram.com/cherriila)  
+- **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
 
 ---
