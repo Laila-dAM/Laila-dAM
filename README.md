@@ -5,25 +5,18 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      
-      <h2>🌸 ᴀʙᴏᴜᴛ ᴍᴇ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="28px" style="vertical-align: middle;" /></h2>
+## 🌸 ᴀʙᴏᴜᴛ ᴍᴇ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="22px" />
 
-      ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs <b>ʟᴀɪʟᴀ</b>, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
-      <b>ɢᴀᴍᴇs</b>, <b>ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs</b>, ᴀɴᴅ ᴀʀᴛ 🎮✨  
-      ɪ'ᴍ sᴛɪʟʟ ᴇxᴘʟᴏʀɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ ɪɴ ᴀ ɴᴀᴛᴜʀᴀʟ, sᴇʟғ-ᴘᴀᴄᴇᴅ ᴡᴀʏ.  
-      > _ᴛʜɪs sᴘᴀᴄᴇ ɪs ᴀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs, ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs._
+<p align="left">
+  <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="180px" align="right" />
+</p>
 
-      📂 ᴀʟʟ ᴍʏ ᴡᴏʀᴋ ɪs ᴏʀɢᴀɴɪᴢᴇᴅ ɪɴ ᴛʜᴇ <code>_Projects/_</code> ғᴏʟᴅᴇʀ.
+ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs **ʟᴀɪʟᴀ**, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
+**ɢᴀᴍᴇs**, **ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs**, ᴀɴᴅ ᴀʀᴛ 🎮✨  
+ɪ'ᴍ sᴛɪʟʟ ᴇxᴘʟᴏʀɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ ɪɴ ᴀ ɴᴀᴛᴜʀᴀʟ, sᴇʟғ-ᴘᴀᴄᴇᴅ ᴡᴀʏ.  
+> _ᴛʜɪs sᴘᴀᴄᴇ ɪs ᴀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs, ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs._
 
-    </td>
-    <td align="center" width="35%">
-      <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="220px" alt="logo" />
-    </td>
-  </tr>
-</table>
+📂 ᴀʟʟ ᴍʏ ᴡᴏʀᴋ ɪs ᴏʀɢᴀɴɪᴢᴇᴅ ɪɴ ᴛʜᴇ `_Projects/_` ғᴏʟᴅᴇʀ.
 
 ---
 
@@ -63,5 +56,3 @@
 - ✉️ **Email:** lailamota.238@gmail.com  
 - 📷 **Instagram:** [@cherriila](https://instagram.com/cherriila)  
 - 💼 **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
-
----
