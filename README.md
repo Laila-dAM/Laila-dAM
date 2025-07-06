@@ -43,14 +43,6 @@
 
 ---
 
-## 🏆 ᴛʀᴏᴘʜɪᴇs
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laila-dAM&theme=monokai&column=7&margin-w=10" />
-</p>
-
----
-
 ## 🔥 sᴛʀᴇᴀᴋ
 
 <p align="center">
