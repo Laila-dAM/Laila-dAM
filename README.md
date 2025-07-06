@@ -1,22 +1,29 @@
 <h1 align="center">
-  <b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ!</b> 
-  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif" width="55px">
+  <b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ!</b>
+  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif" width="60px">
 </h1>
-
-<p align="center">
-  <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="280px" alt="logo">
-</p>
 
 ---
 
-## 🌸 ᴀʙᴏᴜᴛ ᴍᴇ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="35px" style="vertical-align: middle;" />
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      
+      <h2>🌸 ᴀʙᴏᴜᴛ ᴍᴇ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="28px" style="vertical-align: middle;" /></h2>
 
-ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs **ʟᴀɪʟᴀ**, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
-**ɢᴀᴍᴇs**, **ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs**, ᴀɴᴅ ᴀʀᴛ 🎮✨  
-ɪ'ᴍ sᴛɪʟʟ ᴇxᴘʟᴏʀɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ ɪɴ ᴀ ɴᴀᴛᴜʀᴀʟ, sᴇʟғ-ᴘᴀᴄᴇᴅ ᴡᴀʏ.  
-> _ᴛʜɪs sᴘᴀᴄᴇ ɪs ᴀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs, ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs._
+      ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs <b>ʟᴀɪʟᴀ</b>, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
+      <b>ɢᴀᴍᴇs</b>, <b>ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs</b>, ᴀɴᴅ ᴀʀᴛ 🎮✨  
+      ɪ'ᴍ sᴛɪʟʟ ᴇxᴘʟᴏʀɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ ɪɴ ᴀ ɴᴀᴛᴜʀᴀʟ, sᴇʟғ-ᴘᴀᴄᴇᴅ ᴡᴀʏ.  
+      > _ᴛʜɪs sᴘᴀᴄᴇ ɪs ᴀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs, ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs._
 
-📂 ᴀʟʟ ᴍʏ ᴡᴏʀᴋ ɪs ᴏʀɢᴀɴɪᴢᴇᴅ ɪɴ ᴛʜᴇ `_Projects/_` ғᴏʟᴅᴇʀ.
+      📂 ᴀʟʟ ᴍʏ ᴡᴏʀᴋ ɪs ᴏʀɢᴀɴɪᴢᴇᴅ ɪɴ ᴛʜᴇ <code>_Projects/_</code> ғᴏʟᴅᴇʀ.
+
+    </td>
+    <td align="center" width="35%">
+      <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="220px" alt="logo" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -53,8 +60,8 @@
 
 ## 💌 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ!
 
-- **Email:** lailamota.238@gmail.com  
-- **Instagram:** [@cherriila](https://instagram.com/cherriila)  
-- **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+- ✉️ **Email:** lailamota.238@gmail.com  
+- 📷 **Instagram:** [@cherriila](https://instagram.com/cherriila)  
+- 💼 **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
 
 ---
