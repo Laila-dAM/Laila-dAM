@@ -1,6 +1,6 @@
 <h1 align="center">
   <b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ!</b>
-  <img src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif" width="60px">
+  <img src="https://tenor.com/pVTqVSPFrED.gif" width="60px">
 </h1>
 
 ---
