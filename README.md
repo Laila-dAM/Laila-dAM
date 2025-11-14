@@ -5,10 +5,8 @@
 
 ---
 
-## ᴀʙᴏᴜᴛ ᴍᴇ ⋆⭒˚.⋆ <img src="https://i.pinimg.com/originals/9e/b2/e4/9eb2e4ca44eb0c9658195f258e232d34.gif" width="22px" />
 
 <p align="left">
-  <img src="https://i.ibb.co/xqZwtj2G/logo.png" width="180px" align="right" />
 </p>
 
 ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs **ʟᴀɪʟᴀ**, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
