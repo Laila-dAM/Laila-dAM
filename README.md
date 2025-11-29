@@ -52,5 +52,5 @@
 ---
 
 <h2 align="center">
-  <b> ૮ ˙Ⱉ˙ ა rawr! </b>
+<p align="center"> ૮ ˙Ⱉ˙ ა ʙᴜɴxɪᴇ.ᴢɪᴘ </p>
 </h2>
