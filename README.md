@@ -36,8 +36,9 @@
 ## 📈 ɢɪᴛʜᴜʙ sᴛᴀᴛs ⋆⭒˚.⋆
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+
 </p>
 
 ---
