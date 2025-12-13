@@ -1,25 +1,28 @@
 <h1 align="center">
-  <b>ʜᴇʟʟᴏ, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ!</b>
+  <b>Hello, welcome to my GitHub!</b>
   <img src="https://tenor.com/pVTqVSPFrED.gif" width="60px">
 </h1>
 
 ---
 
+## 👋 About Me
 
-<p align="left">
-</p>
+Hi! My name is **Laila**, and I am an IT student with a strong interest in creating  
+**games**, **digital animations**, and **interactive art** 🎮✨  
 
-ʜᴇʏ! ᴍʏ ɴᴀᴍᴇ ɪs **ʟᴀɪʟᴀ**, ᴀɴ ɪᴛ sᴛᴜᴅᴇɴᴛ ᴡɪᴛʜ ᴀ ᴘᴀssɪᴏɴ ғᴏʀ ᴄʀᴇᴀᴛɪɴɢ  
-**ɢᴀᴍᴇs**, **ᴅɪɢɪᴛᴀʟ ᴀɴɪᴍᴀᴛɪᴏɴs**, ᴀɴᴅ ᴀʀᴛ 🎮✨  
-ɪ'ᴍ sᴛɪʟʟ ᴇxᴘʟᴏʀɪɴɢ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢ ɪɴ ᴀ ɴᴀᴛᴜʀᴀʟ, sᴇʟғ-ᴘᴀᴄᴇᴅ ᴡᴀʏ.  
-> _ᴛʜɪs sᴘᴀᴄᴇ ɪs ᴀ ᴄᴏʟʟᴇᴄᴛɪᴏɴ ᴏғ ᴍʏ sᴛᴜᴅɪᴇs, ᴇxᴘᴇʀɪᴍᴇɴᴛs, ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴀʟ ᴘʀᴏᴊᴇᴄᴛs._
+I am currently exploring programming concepts and computer science topics in a self-paced and practical way, focusing on learning through experimentation and real projects.
+
+> _This space serves as a collection of my studies, experiments, and practical projects._
 >
-> 📂 `_Projects/` ʜᴏʟᴅs ᴍʏ ᴡᴏʀᴋ.
->
-> 📂 `_CyberPulse/` ɪs ᴍʏ ᴍᴀɪɴ ᴘʀᴏᴊᴇᴄᴛ ʀɪɢʜᴛ ɴᴏᴡ.
+📂 `_Projects/` contains my completed and ongoing work.  
+
+📂 `_CyberPulse/` is my main project, a full-stack system monitoring and analytics platform.  
+
+📂 `_BITROT/` is an ongoing multi-project repository exploring computer science concepts.
+
 ---
 
-## 🖥️ sᴋɪʟʟs & ᴛᴏᴏʟs ɪ'ᴍ ʟᴇᴀʀɴɪɴɢ ⋆⭒˚.⋆
+## 🖥️ Skills & Tools I’m Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
@@ -33,17 +36,16 @@
 
 ---
 
-## 📈 ɢɪᴛʜᴜʙ sᴛᴀᴛs ⋆⭒˚.⋆
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 ---
 
-## 💌 ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ ⋆⭒˚.⋆
+## 💌 Let’s Connect
 
 - **Email:** lailamota.238@gmail.com  
 - **Instagram:** [@cherriila](https://instagram.com/cherriila)  
@@ -52,5 +54,5 @@
 ---
 
 <h2 align="center">
-<p align="center"> ૮ ˙Ⱉ˙ ა ʙᴜɴxɪᴇ.ᴢɪᴘ </p>
+  <p align="center">૮ ˙Ⱉ˙ ა bunxie.zip</p>
 </h2>
