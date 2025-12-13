@@ -16,7 +16,7 @@ I am currently exploring programming concepts and computer science topics in a s
 >
 📂 `_Projects/` contains my completed and ongoing work.  
 
-📂 `_CyberPulse/` is my main project, a full-stack system monitoring and analytics platform.  
+📂 `_CyberPulse/` is a complete system monitoring and analysis platform.
 
 📂 `_BITROT/` is an ongoing multi-project repository exploring computer science concepts.
 
