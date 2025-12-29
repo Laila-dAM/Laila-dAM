@@ -7,32 +7,83 @@
 
 ## 👋 About Me
 
-Hi! My name is **Laila**, and I am an IT student with a strong interest in creating  
-**games**, **digital animations**, and **interactive art** 🎮✨  
+Hi! I’m **Laila**, an **IT student** seeking an **internship**, open to learning across different areas of technology. 
 
-I am currently exploring programming concepts and computer science topics in a self-paced and practical way, focusing on learning through experimentation and real projects.
+I focus on understanding how systems work, from **logic and data** to **backend**, **infrastructure**, and **interactive projects**. 
 
-> _This space serves as a collection of my studies, experiments, and practical projects._
->
-📂 `_Projects/` contains my completed and ongoing work.  
+I learn through a **strong theoretical foundation combined with hands-on practice**, rebuilding systems and developing exploratory projects.
 
-📂 `_CyberPulse/` is a complete system monitoring and analysis platform.
-
-📂 `_BITROT/` is an ongoing multi-project repository exploring computer science concepts.
+> _This GitHub is my learning lab — a place where I document my studies, experiments, and evolving projects._
 
 ---
 
-## 🖥️ Skills & Tools I’m Learning
+## Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
-</p>
+- 📌 Looking for an **internship in IT** (backend, data, systems, infrastructure, or related areas)
+- 📚 Strengthening **logic, algorithms, and computer science fundamentals**
+- 🧪 Learning through **real projects and experimentation**
+- 🚀 Building a solid base to grow into a versatile IT professional
+
+---
+
+## 🗂️ Featured Projects
+
+### 🔹 Projects
+**Experimental & Learning Repository**  
+A centralized space where I organize everything I study, create, and experiment with.  
+This repository reflects my curiosity across multiple IT domains and my ability to structure and document learning materials.
+
+**Focus:** organization, autonomy, experimentation, continuous learning
+
+---
+
+### 🔹 CyberPulse
+**System Monitoring & Analytics Platform**  
+A lightweight platform that collects system metrics such as CPU usage, memory consumption, and running processes, displaying them in a real-time dashboard.
+
+**Focus:** backend development, API design, system monitoring, observability fundamentals
+
+---
+
+### 🔹 BITROT
+**Computer Science Exploratory Projects**  
+A multi-project repository focused on **computer science fundamentals**, developed through educational games, simulators, and experimental tools.
+
+**Focus:** logic, algorithms, systems thinking, creative problem-solving  
+_Status:_ ongoing and continuously evolving
+
+---
+
+### 🔹 Resume Website
+**Personal Resume & Portfolio Website**  
+A clean and modern website designed to present my academic background, technical skills, and projects in a clear and accessible way.
+
+**Focus:** communication, frontend basics, professional presentation
+
+---
+
+## 🖥️ Skills & Technologies
+
+### 🧠 Languages I've Used in Projects
+- Java
+- Python
+- C / C++
+- C#
+- R
+- SQL
+- Bash
+- Assembly
+- JavaScript
+- HTML & CSS
+
+### ⭐ More Comfortable With
+- **Python**
+- **Java**
+
+### 📚 Currently Studying
+- Programming logic & algorithms
+- Core computer science concepts
+- System-oriented thinking
 
 ---
 
@@ -47,9 +98,11 @@ I am currently exploring programming concepts and computer science topics in a s
 
 ## 💌 Let’s Connect
 
-- **Email:** lailamota.238@gmail.com  
-- **Instagram:** [@cherriila](https://instagram.com/cherriila)  
-- **LinkedIn:** [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
+I'm open to **internship opportunities**, **freelance projects**, and **professional networking**.
+
+- 📧 Email: lailamota.238@gmail.com  
+- 📸 Instagram: [@cherriila](https://instagram.com/cherriila)  
+- 💼 LinkedIn: [Laila Mota](https://www.linkedin.com/in/laila-mota-674564314/)
 
 ---
 
