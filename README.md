@@ -76,10 +76,6 @@ A clean and modern website designed to present my academic background, technical
 - JavaScript
 - HTML & CSS
 
-### ⭐ More Comfortable With
-- **Python**
-- **Java**
-
 ### 📚 Currently Studying
 - Programming logic & algorithms
 - Core computer science concepts
