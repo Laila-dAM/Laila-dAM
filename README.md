@@ -11,11 +11,6 @@
   IT student • exploring systems, data & backend
 </p>
 
-<h1 align="center">
-  <b>Hello, welcome to my GitHub!</b>
-  <img src="https://tenor.com/pVTqVSPFrED.gif" width="60px">
-</h1>
-
 ---
 
 ## 👋 About Me
