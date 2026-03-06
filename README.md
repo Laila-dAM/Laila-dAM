@@ -13,18 +13,6 @@
 
 ---
 
-## 👋 About Me
-
-Hi! I’m **Laila**, an **IT student** seeking an **internship**, open to learning across different areas of technology. 
-
-I focus on understanding how systems work, from **logic and data** to **backend**, **infrastructure**, and **interactive projects**. 
-
-I learn through a **strong theoretical foundation combined with hands-on practice**, rebuilding systems and developing exploratory projects.
-
-> _This GitHub is my learning lab — a place where I document my studies, experiments, and evolving projects._
-
----
-
 ## Current Focus
 
 - 📌 Looking for an **internship in IT** (backend, data, systems, infrastructure, or related areas)
