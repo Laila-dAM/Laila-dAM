@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://i.ibb.co/G31wMsTy/cybercore-green-wallpaper-1920x1080.png" width="100%" />
+  <img src="https://i.ibb.co/SDgkfpp2/Design-sem-nome-5.png" width="100%" />
+</p>
+
+<h1 align="center">
+  Hello, welcome to my GitHub! 👾
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/cute-wave.gif" width="40px">
+</h1>
+
+<p align="center">
+  IT student • exploring systems, data & backend
 </p>
 
 <h1 align="center">
