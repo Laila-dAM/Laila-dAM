@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/G31wMsTy/cybercore-green-wallpaper-1920x1080.png" width="100%" />
+</p>
+
 <h1 align="center">
   <b>Hello, welcome to my GitHub!</b>
   <img src="https://tenor.com/pVTqVSPFrED.gif" width="60px">
