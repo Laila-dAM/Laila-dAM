@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hello, welcome to my GitHub! 👾
+Hello, welcome to my GitHub! 👾
   <img src="https://media.tenor.com/2roX3uxz_68AAAAi/cute-wave.gif" width="40px">
 </h1>
 
 <p align="center">
-  IT student • exploring systems, data & backend
+IT student • systems, data & backend • animation & graphic design
 </p>
 
 ---
@@ -42,6 +42,15 @@ A lightweight platform that collects system metrics such as CPU usage, memory co
 A multi-project repository focused on **computer science fundamentals**, developed through educational games, simulators, and experimental tools.
 
 **Focus:** logic, algorithms, systems thinking, creative problem-solving  
+_Status:_ ongoing and continuously evolving
+
+---
+
+### 🔹 Design Portfolio Hub  
+A collection of UI/UX, graphic design, and concept projects built for practice, creativity, and real-world exploration.  
+Includes mobile apps, websites, dashboards, design systems, branding, game UI, prototypes, and more.  
+
+**Focus:** UI/UX, visual design, user-centered thinking, creative exploration  
 _Status:_ ongoing and continuously evolving
 
 ---
