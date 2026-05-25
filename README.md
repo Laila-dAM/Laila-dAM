@@ -87,8 +87,9 @@ A clean and modern website designed to present my academic background, technical
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Laila-dAM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
