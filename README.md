@@ -1,5 +1,5 @@
 <h1 align="center">
-  Laila Mota
+  Laila-dMA
 </h1>
 
 <p align="center">
@@ -22,11 +22,7 @@
 
 ## About Me
 
-I'm a **Computer Science student** focused on Software Engineering, backend development, full stack applications and system architecture.
-
-I enjoy designing and building software products that combine **solid engineering, scalable architectures and thoughtful user experiences**.
-
-My work ranges from SaaS platforms and management systems to infrastructure monitoring, educational software and computer science experiments.
+I'm a **Computer Science student** focused on Software Engineering, backend, full stack development, and system architecture. I build **scalable software, SaaS platforms, and digital products** with a focus on solid engineering and user experience.
 
 **Areas I work with:**
 
@@ -95,83 +91,66 @@ My work ranges from SaaS platforms and management systems to infrastructure moni
 
 ## Featured Projects
 
-### Nexorium
 
-**Enterprise ERP SaaS platform** for client management, financial operations, inventory, analytics and productivity workflows.
+<table> <tr> <td width="50%">
 
-`TypeScript` · `SaaS` · `ERP` · `Enterprise Systems`
+🏢 Nexorium
 
----
+Enterprise ERP SaaS platform for client management, finance, inventory, analytics and productivity.
 
-### CyberPulse
+TypeScript · SaaS · ERP
 
-**Infrastructure monitoring and observability platform** for collecting, analyzing and visualizing system metrics.
+</td>
 
-`Python` · `FastAPI` · `PostgreSQL` · `Docker` · `Psutil`
+<td width="50%">
 
----
+🛡️ CyberPulse
 
-### DevTrack
+Infrastructure monitoring and observability platform for collecting and analyzing system metrics.
 
-**Full stack project management platform** for projects, tasks, workflows and team activities.
+Python · FastAPI · PostgreSQL · Docker
 
-`React` · `FastAPI` · `PostgreSQL` · `REST API`
+</td> </tr>
 
----
+<tr> <td width="50%">
 
-### Clinic Schedule SaaS
+📋 DevTrack
 
-**SaaS platform for clinic management and scheduling**, focused on appointments and operational workflows.
+Full stack project management platform for projects, tasks and team workflows.
 
-`TypeScript` · `SaaS` · `HealthTech`
+React · FastAPI · PostgreSQL
 
----
+</td>
 
-### AI-X
+<td width="50%">
 
-**Interactive educational game** designed to teach artificial intelligence concepts through gameplay and adaptive learning.
+🩺 Clinic Schedule SaaS
 
-`JavaScript` · `AI Education` · `Game Development`
+SaaS platform for clinic management, scheduling and operational workflows.
 
----
+TypeScript · SaaS · HealthTech
 
-### BITROT
+</td> </tr>
 
-Collection of **computer science projects, simulations and educational tools** focused on algorithms and systems programming.
+<tr> <td width="50%">
 
-`C++` · `Algorithms` · `Computer Science`
+🤖 AI-X
 
----
+Interactive educational game for learning artificial intelligence concepts through gameplay.
 
-### SaaS Dashboard
+JavaScript · AI · Game Development
 
-Administrative dashboard interface designed for **SaaS applications, analytics and management workflows**.
+</td>
 
-`TypeScript` · `Frontend` · `Dashboards` · `UI/UX`
+<td width="50%">
 
----
+🧠 BITROT
 
-### AI-Course
+Collection of computer science projects, simulations and educational tools.
 
-Educational project focused on **artificial intelligence, programming concepts and practical learning**.
+C++ · Algorithms · Systems
 
-`Python` · `AI` · `Education`
-
----
-
-### HealthTech
-
-Software project exploring **digital solutions for healthcare-related workflows and user experiences**.
-
-`HealthTech` · `Software Development`
-
----
-
-### Resume Website
-
-Personal portfolio website designed to showcase **professional experience, technical skills and projects**.
-
-`HTML` · `CSS` · `JavaScript`
+</td> </tr> </table>
 
 ---
 
@@ -185,17 +164,6 @@ Personal portfolio website designed to showcase **professional experience, techn
 <p align="center">
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Laila-dAM&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10" alt="Top Languages"/>
 </p>
-
----
-
-## Current Focus
-
-* Building production-oriented **full stack and backend applications**
-* Designing **SaaS architectures and scalable systems**
-* Improving knowledge of **software architecture and databases**
-* Exploring **DevOps, Docker, CI/CD and cloud infrastructure**
-* Developing projects involving **AI, automation and intelligent systems**
-* Combining **engineering, UI/UX and product design**
 
 ---
 
